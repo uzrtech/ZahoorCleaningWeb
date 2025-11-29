@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Clinox Demo were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://zahoorcleaning.com
+Data file = /home/u759108528/domains/zahoorcleaning.com/public_html/wp-content/uploads/2025/11/demo-content-import-file_2025-11-20__09-46-32.xml
+Widget file = /home/u759108528/domains/zahoorcleaning.com/public_html/wp-content/themes/clinox/sample-data/widget-settings.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Tx Search - Search - Imported
+Tx Category - Category - Imported
+Tx Post - Recent Post - Imported
+Tx Tag - Tags - Imported
+Tx Subscribe - Subscribe - Imported
+
+
+
+---ocdi/after_import---
+
