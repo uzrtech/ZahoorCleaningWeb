@@ -6,7 +6,7 @@
 		$delay = $i*200;		
 	    $html .= ' 
 
-		<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="'.$delay.'ms" data-wow-duration="1500ms">
+		<div class="col-lg-2 col-md-3 wow fadeInUp" data-wow-delay="'.$delay.'ms" data-wow-duration="1500ms">
 			<div class="clenix-how-work-item-3 text-center position-relative">
 				<span class="serial d-flex justify-content-center align-items-center position-absolute">'.$a['num'].'</span>
 				<div class="inner-icon position-relative d-flex justify-content-center align-items-center">
